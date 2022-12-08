@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\arturo.valino\\OneDrive - SoftwareONE\\Desktop\\Documentos\\vs_code\\codecademy\\spaceman\\spaceman.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\arturo.valino\\OneDrive - SoftwareONE\\Desktop\\Documentos\\vs_code\\codecademy\\spaceman\\spaceman.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arturo.valino\\OneDrive - SoftwareONE\\Desktop\\Documentos\\vs_code\\codecademy\\spaceman\\spaceman.csproj",
+        "projectName": "spaceman",
+        "projectPath": "C:\\Users\\arturo.valino\\OneDrive - SoftwareONE\\Desktop\\Documentos\\vs_code\\codecademy\\spaceman\\spaceman.csproj",
+        "packagesPath": "C:\\Users\\arturo.valino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arturo.valino\\OneDrive - SoftwareONE\\Desktop\\Documentos\\vs_code\\codecademy\\spaceman\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arturo.valino\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
